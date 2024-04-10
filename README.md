@@ -46,4 +46,4 @@ This code is released under the MIT License.
 ## Acknowledgments
 Thanks to all the coffee enthusiasts and developers who inspired and contributed to this simulation project.
 
-I hope you enjoy brewing virtual coffee with our object-oriented coffee machine simulator!
+Hope you enjoy brewing virtual coffee with our object-oriented coffee machine simulator!
